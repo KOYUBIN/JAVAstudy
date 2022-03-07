@@ -31,7 +31,7 @@ public class Student {
 	}
 	
 	
-	// Generate an ID
+	// Generate an IDs
 	private void setStudentID() {
 		// Grade  Level +ID
 		id++;
